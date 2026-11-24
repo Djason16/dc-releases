@@ -2,9 +2,9 @@
 
 [English](README.md "Read in English")
 
-![Outils DC : DC Scaffold, DC Prospect et DC Sentinel](assets/banner-fr.png "Outils DC")
+![Outils DC : DC Scaffold, DC Prospect, DC Sentinel et DC Audit](assets/banner-fr.png "Outils DC")
 
-Trois applications pour indépendants et petites entreprises, sur Windows, macOS et Linux. Gratuites, avec une offre Pro.
+Quatre applications pour indépendants et petites entreprises, sur Windows, macOS et Linux. Gratuites, avec une offre Pro.
 Tout est expliqué sur **[tools.djason-chery.dev](https://tools.djason-chery.dev/fr/ "Site des outils DC")**.
 
 | Outil | Ce qu'il fait | Télécharger |
@@ -12,6 +12,7 @@ Tout est expliqué sur **[tools.djason-chery.dev](https://tools.djason-chery.dev
 | **DC Scaffold** | Crée un projet web complet en quelques minutes : un site et son serveur, reliés, documentés et prêts à démarrer. | [Versions `scaffold-v…`](https://github.com/Djason16/dc-releases/releases?q=scaffold&expanded=true "Versions de DC Scaffold") |
 | **DC Prospect** | La prospection par e-mail faite à votre place : trouve les entreprises, lit leur site, rédige avec votre ton, envoie après votre accord. | [Versions `prospect-v…`](https://github.com/Djason16/dc-releases/releases?q=prospect&expanded=true "Versions de DC Prospect") |
 | **DC Sentinel** | Surveille vos sites et sauvegarde leurs bases de données, ordinateur éteint, depuis votre propre compte GitHub. | [Versions `sentinel-v…`](https://github.com/Djason16/dc-releases/releases?q=sentinel&expanded=true "Versions de DC Sentinel") |
+| **DC Audit** | Audite n'importe quel site en quelques minutes (vitesse, référencement, accessibilité, sécurité, obligations légales françaises) et fait passer votre propre recette avant une mise en ligne, avec un rapport PDF. | [Versions `audit-v…`](https://github.com/Djason16/dc-releases/releases?q=audit&expanded=true "Versions de DC Audit") |
 
 Le plus simple pour avoir le bon fichier : la **[page de téléchargement](https://tools.djason-chery.dev/fr/download/ "Télécharger les outils DC")**.
 

@@ -2,9 +2,9 @@
 
 [Français](README.fr.md "Lire en français")
 
-![DC Tools: DC Scaffold, DC Prospect and DC Sentinel](assets/banner-en.png "DC Tools")
+![DC Tools: DC Scaffold, DC Prospect, DC Sentinel and DC Audit](assets/banner-en.png "DC Tools")
 
-Three desktop apps for freelancers and small businesses, for Windows, macOS and Linux. Free, with a Pro plan.
+Four desktop apps for freelancers and small businesses, for Windows, macOS and Linux. Free, with a Pro plan.
 Everything about them is on **[tools.djason-chery.dev](https://tools.djason-chery.dev/en/ "DC Tools website")**.
 
 | Tool | What it does | Download |
@@ -12,6 +12,7 @@ Everything about them is on **[tools.djason-chery.dev](https://tools.djason-cher
 | **DC Scaffold** | Creates a complete web project in minutes: a front and a back end, connected, documented and ready to start. | [Releases `scaffold-v…`](https://github.com/Djason16/dc-releases/releases?q=scaffold&expanded=true "DC Scaffold releases") |
 | **DC Prospect** | E-mail prospecting done for you: finds companies, reads their site, drafts in your voice, sends after your approval. | [Releases `prospect-v…`](https://github.com/Djason16/dc-releases/releases?q=prospect&expanded=true "DC Prospect releases") |
 | **DC Sentinel** | Watches your websites and backs up their databases, computer off, from your own GitHub account. | [Releases `sentinel-v…`](https://github.com/Djason16/dc-releases/releases?q=sentinel&expanded=true "DC Sentinel releases") |
+| **DC Audit** | Audits any website in minutes (speed, search, accessibility, security, French legal duties) and runs your own checklist before going live, with a PDF report. | [Releases `audit-v…`](https://github.com/Djason16/dc-releases/releases?q=audit&expanded=true "DC Audit releases") |
 
 The easiest way to get the right file: the **[download page](https://tools.djason-chery.dev/en/download/ "Download the DC tools")**.
 
